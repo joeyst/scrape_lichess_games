@@ -10,4 +10,4 @@ scrape_lichess_games("joeyst.pgn", "joeyst")
 
 Install: 
 
-`python -m pip install -U git+https://github.com/joeyst/scrape_lichess_games.git`
+`python -m pip install -e git+https://github.com/joeyst/scrape_lichess_games.git#egg=scrape_lichess_games`
